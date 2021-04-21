@@ -2,7 +2,7 @@
 
 **NOTE** These names are not final and they may be changed. The name list proceeds sequentially.
 
-## Major upgrades
+## Major upgrades/launches
 1.  Nairobi
 2.  Istanbul
 3.  Sydney
@@ -19,3 +19,8 @@
 14. Moscow
 15. Lagos
 16. Mumbai
+
+## Regarding minor upgrades/launches
+No naming convention has been chosen for minor upgrades and launches. When chosen, this file will be updated.
+
+**Note** For the time being, minor upgrades and launches will be named as the date of launch is released.

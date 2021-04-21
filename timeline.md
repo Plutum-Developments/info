@@ -1,7 +1,7 @@
 # Timeline
 
-## Plutum website
-### What is the site?
+## Nairobi Upgrades
+### Plutum website version 1.0
 In this phase, the website will be live and the whitepaper will be launched.
 
 ### Estimated date:

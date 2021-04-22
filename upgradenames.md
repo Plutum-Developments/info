@@ -6,11 +6,11 @@
 
 ## Major upgrades/launches
 *1.  Nairobi
-2.  Istanbul
+*2.  Istanbul
 *3.  Sydney
-4.  Seattle
+*4.  Seattle
 *5.  Shanghai
-6.  London
+*6.  London
 7.  Buenos Aires
 8.  Caracas
 9.  Auckland

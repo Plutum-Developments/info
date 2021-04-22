@@ -5,12 +5,12 @@
 **NOTE #2** Upgrades through the London upgrades have been announced and are available at https://github.com/Plutum-Developments/info/blob/main/timeline.md.
 
 ## Major upgrades/launches
-*1.  Nairobi
-*2.  Istanbul
-*3.  Sydney
-*4.  Seattle
-*5.  Shanghai
-*6.  London
+1.  Nairobi
+2.  Istanbul
+3.  Sydney
+4.  Seattle
+5.  Shanghai
+6.  London
 7.  Buenos Aires
 8.  Caracas
 9.  Auckland

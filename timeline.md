@@ -4,8 +4,11 @@
 ### Plutum website version 1.0
 In this phase, the website will be live and the whitepaper will be launched.
 
+### Decimalisation switch
+The switch of decimalisation to be one further back is a minor change that takes place for better readability.
+
 ### Estimated date:
-25 April 2021
+26 April 2021
 
 ## Istanbul Upgrades
 ### Plutum testnet launch v0.1

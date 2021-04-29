@@ -15,7 +15,7 @@ The switch of decimalisation to be one further back is a minor change that takes
 Plutum’s testnet will enable select users to create and transact PNFTs using a lightweight wallet.
 
 ### Estimated date:
-10 May 2021
+25 May 2021
 
 ## Syndey Upgrades
 ### PLTM Governance token launch

@@ -2,7 +2,7 @@
 
 **Note** These names are not final and they may be changed. The name list proceeds sequentially.
 
-**Note #2** Upgrades through the London upgrades have been announced and are available at https://github.com/Plutum-Developments/info/blob/main/timeline.md.
+**Note 2** Upgrades through the London upgrades have been announced and are available at https://github.com/Plutum-Developments/info/blob/main/timeline.md.
 
 ## Major upgrades/launches
 1. Nairobi

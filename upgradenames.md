@@ -21,6 +21,7 @@
 14. Moscow
 15. Lagos
 16. Mumbai
+17. Seoul
 
 ## Regarding minor upgrades/launches
 No naming convention has been chosen for minor upgrades and launches. When chosen, this file will be updated.

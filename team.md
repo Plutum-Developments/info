@@ -9,7 +9,7 @@ The Plutum team is a group of people who strive to make the world a more open, d
 - Likes to cook
 - Blockchain enthusiast since 2017
 
-## Sammy Weidenthal - CTO and co-founder
+## Sammy Weidenthal - Programming lead
 - Coding wizard
 - Enjoys design
 
@@ -17,3 +17,8 @@ The Plutum team is a group of people who strive to make the world a more open, d
 - Illustrates like a god
 - Pretty decent at marketing
 - Plays tennis
+
+## Toby Nelson - Programmer
+- Drinks coffee (?)
+- Good at math
+- Also plays tennis

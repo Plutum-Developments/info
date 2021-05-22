@@ -10,8 +10,9 @@ The Plutum team is a group of people who strive to make the world a more open, d
 - Blockchain enthusiast since 2017
 
 ## Sammy Weidenthal - Programming lead
-- Coding wizard
-- Enjoys design
+- Fascinated by network systems
+- Skis competitively
+- Addicted to espresso (Java)
 
 ## Ned Koh - CMO
 - Illustrates like a god

@@ -19,7 +19,7 @@ The Plutum team is a group of people who strive to make the world a more open, d
 - Pretty decent at marketing
 - Plays tennis
 
-## Toby Nelson - Programmer
-- Drinks coffee (?)
-- Good at math
-- Also plays tennis
+## Programmer #2
+- Plays league of legends
+- Cracked at math
+- Listens to a lot of music

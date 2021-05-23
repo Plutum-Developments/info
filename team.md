@@ -9,7 +9,7 @@ The Plutum team is a group of people who strive to make the world a more open, d
 - Likes to cook
 - Blockchain enthusiast since 2017
 
-## Sammy Weidenthal - Programming lead
+## Sammy Weidenthal - Programmer
 - Fascinated by network systems
 - Skis competitively
 - Addicted to espresso (Java)
@@ -19,7 +19,7 @@ The Plutum team is a group of people who strive to make the world a more open, d
 - Pretty decent at marketing
 - Plays tennis
 
-## Programmer #2
+## Toby - Programmer
 - Plays league of legends
 - Cracked at math
 - Listens to a lot of music

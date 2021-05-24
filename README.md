@@ -3,3 +3,9 @@ This is the core organisation that contains all of the code behind Plutum, a nex
 
 ## What is the info repository?
 The info repository is pretty self-explanatory - it contains all the documentation, information, and other materials that may be published or pushed online.
+
+## Got any questions?
+Email hello@plutum.org, DM our Twitter, or ask on our Discord. We like to pride ourselves on quick answers and are open to any and all feedback!
+
+## Where's all the documentation?
+Documentation is either located here or at https://docs.plutum.org. For the most part, they should have the same documentation uploaded to them. However, note there may be a slight time lag between the two.

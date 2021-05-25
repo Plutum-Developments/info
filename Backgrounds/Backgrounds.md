@@ -1,7 +1,7 @@
 # Phone and computer backgrounds
 Hi,
 
-Unfortunately, our designer has a little too much time on his hands and manages to get no work done, confusingly enough. Fortunately for you, however, the culmination of his wasted time are these terrific backgrounds you can use on your devices. They're uploaded below! We've got backgrounds for iPhone and for Mac, however, we're working on getting more and offering more colourful options. If you have any suggestions, open an issue and we'll take note of it right away.
+Unfortunately for us, our designer somehow has a little too much time on his hands and yet manages to get no work done, confusingly enough. Fortunately for you, however, the culmination of his wasted time are these terrific backgrounds you can use on your devices. They're uploaded below! We've got backgrounds for iPhone and for Mac, however, we're working on getting more and offering more colourful options. If you have any suggestions, open an issue, DM our Twitter, or text our Discord and we'll take note of it right away.
 
 Thanks,
 Cameron

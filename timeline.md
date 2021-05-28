@@ -8,7 +8,7 @@ In this phase, the website will be live and the whitepaper will be launched.
 The switch of decimalisation to be one further back is a minor change that takes place for better readability.
 
 ### Estimated date:
-1 June 2021 May 2021
+1 June 2021
 
 ## Syndey Upgrades
 ### PLTM Governance token launch

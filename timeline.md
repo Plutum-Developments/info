@@ -8,7 +8,7 @@ In this phase, the website will be live and the whitepaper will be launched.
 The switch of decimalisation to be one further back is a minor change that takes place for better readability.
 
 ### Estimated date:
-15 May 2021
+1 June 2021 May 2021
 
 ## Syndey Upgrades
 ### PLTM Governance token launch
@@ -18,14 +18,14 @@ PLTM, the governance token for Plutum enabled by liquid democracy will launch.
 Aurum will be a lightweight desktop wallet for storing PLTM. It will enable all functions of PLTM, including the liquid democratic features.
 
 ### Estimated date:
-28 May 2021
+5 June 2021
 
 ## Istanbul Upgrades
 ### Plutum testnet launch v0.1
 Plutum’s testnet will enable select users to create and transact PNFTs using a lightweight wallet.
 
 ### Estimated date:
-1 June 2021
+15 June 2021
 
 ## Seattle Upgrades
 ### Mainnet launch

@@ -8,4 +8,4 @@ The info repository is pretty self-explanatory - it contains all the documentati
 Email hello@plutum.org, DM our Twitter, or ask on our Discord. We like to pride ourselves on quick answers and are open to any and all feedback!
 
 ## Where is all the documentation?
-Documentation is either located here or at https://docs.plutum.org. For the most part, they should have the same documentation uploaded to them. However, note there may be a slight time lag between the two. Also, this repository has all information, whereas the official docs have information that isn't otherwise available on the website, such as timeline.
+Documentation is either located here or at https://docs.plutum.org. For the most part, they should have the same documentation uploaded to them. However, please note there may be a slight time lag between the two. In addition, this repository has all information, whereas the official docs have information that isn't otherwise available on the website, such as timeline.

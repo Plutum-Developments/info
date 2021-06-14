@@ -4,8 +4,5 @@ Plutum Core, also Core Services, is a subset of five services that Plutum offers
 ## Athena
 Athena is the liquid democratic home of Plutum.
 
-## Aurum
-Aurum is our adaptable desktop wallet.
-
 ## Osiris
-Osiris is the mobile wallet for the future.
+Osiris are our wallet services - containing Osiris Mobile, a mobile wallet, and Osiris Desktop, a light-weight desktop wallet.

@@ -8,7 +8,7 @@
 1. Nairobi - Desktop complete, mobile in progress
 2. Sydney
 3. Istanbul
-4. Seattle
+4. Doha
 5. Shanghai
 6. London
 7. Buenos Aires

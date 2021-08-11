@@ -9,17 +9,16 @@ The Plutum team is a group of people who strive to make the world a more open, d
 - Likes to cook
 - Blockchain enthusiast since 2017
 
-## Sammy Weidenthal - Programmer
+## Sammy Weidenthal - CTO and co-founder
 - Fascinated by network systems
 - Skis competitively
 - Addicted to espresso (Java)
 
-## Ned Koh - CMO
+## Ned Koh - Marketing staff co-founder
 - Illustrates like a god
 - Pretty decent at marketing
 - Plays tennis
 
-## Toby - Programmer
-- Plays league of legends
-- Cracked at math
-- Listens to a lot of music
+## Michael - Programmer
+
+## Chris Kalra - Marketing staff
